@@ -1,0 +1,12 @@
+Finals.java & Board.Java==>This program asks for the txt file, and will solve any sudoku board.
+Numbers that aren't known are represented as X. This will read "sudoku.txt" file and will solve 
+sudoku board.
+
+
+Main.Java & SudokuBoard.Java==>This program asks reads the "sudoku1.txt" file, and will display either true or false 
+depending on whether the sudokuboard is correct or not. Also, will display sudoku board on console
+
+
+
+
+
